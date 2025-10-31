@@ -20,5 +20,12 @@ news = `
     <a href="/Shaman2016News/news/2"><button>Смотреть статью</button></a>
     <a href="https://t.me/shaman2016scratcher/389"><button>Смотреть пост</button></a>
   </div>
+  <div class="project">
+    <h3>Интерграм опубликовал планы для intergramX.</h3>
+    <p>Сегодня Интерграм опубликовал планы и структуру intergramX. Подробнее в статье</p>
+    <p>От SHAMAN2016</p>
+    <a href="/Shaman2016News/news/3"><button>Смотреть статью</button></a>
+    <a href="https://t.me/shaman2016scratcher/399"><button>Смотреть пост</button></a>
+  </div>
 `
 innerHTML('news', news)
