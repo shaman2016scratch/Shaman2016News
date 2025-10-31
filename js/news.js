@@ -27,5 +27,12 @@ news = `
     <a href="/Shaman2016News/news/3"><button>Смотреть статью</button></a>
     <a href="https://t.me/shaman2016scratcher/399"><button>Смотреть пост</button></a>
   </div>
+  <div class="project">
+    <h3>Интерграм анонсировал Intergram-QR</h3>
+    <p>Интерграм выпустил первую версию Intergram-QR. Подробности в статье</p>
+    <p>От SHAMAN2016</p>
+    <a href="/Shaman2016News/news/4"><button>Смотреть статью</button></a>
+    <a href="https://t.me/shaman2016scratcher/405"><button>Смотреть пост</button></a>
+  </div>
 `
 innerHTML('news', news)
