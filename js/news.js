@@ -12,6 +12,7 @@ news = `
     <p>От SHAMAN2016</p>
     <a href="/Shaman2016News/news/1"><button>Смотреть статью</button></a>
     <a href="https://t.me/shaman2016scratcher/388"><button>Смотреть пост</button></a>
+    <p>Опубликовано 30.10.2025 в 22:50:57 UTC+3</p>
   </div>
   <div class="project">
     <h3>SMS от телеграма и WhatsApp были заблокированы в России</h3>
@@ -19,6 +20,7 @@ news = `
     <p>От SHAMAN2016</p>
     <a href="/Shaman2016News/news/2"><button>Смотреть статью</button></a>
     <a href="https://t.me/shaman2016scratcher/389"><button>Смотреть пост</button></a>
+    <p>Опубликовано 30.10.2025 в 22:55:22 UTC+3</p>
   </div>
   <div class="project">
     <h3>Интерграм опубликовал планы для intergramX.</h3>
@@ -26,6 +28,7 @@ news = `
     <p>От SHAMAN2016</p>
     <a href="/Shaman2016News/news/3"><button>Смотреть статью</button></a>
     <a href="https://t.me/shaman2016scratcher/399"><button>Смотреть пост</button></a>
+    <p>Опубликовано 31.10.2025 в 13:08:26 UTC+3</p>
   </div>
   <div class="project">
     <h3>Интерграм анонсировал Intergram-QR</h3>
@@ -33,6 +36,7 @@ news = `
     <p>От SHAMAN2016</p>
     <a href="/Shaman2016News/news/4"><button>Смотреть статью</button></a>
     <a href="https://t.me/shaman2016scratcher/405"><button>Смотреть пост</button></a>
+    <p>Опубликовано 31.10.2025 в 22:16:04 UTC+3</p>
   </div>
 `
 innerHTML('news', news)
