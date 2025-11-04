@@ -16,7 +16,7 @@ themeIcon = {
 }
 function UpdateTheme(th) {
   docData.theme.innerHTML = themeIcon[th]
-  docData.css.innerHTML = themeCSS[th]
+  docData.css.href = themeCSS[th]
 }
 UpdateTheme(theme)
 function updateTheme() {
