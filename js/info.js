@@ -8,6 +8,5 @@ toppanel = `
   <a href="/shaman2016.github.io/">Сайт SHAMAN2016</a>
   <a href="/Shaman2016News">Shaman2016News</a>
   <a href="https://t.me/s/shaman2016scratcher?q=%23Shaman2016News">Посты</a>
-  <div onclick="updateTheme()"><img id="theme" src="/DeytelengScript/tema-1.svg"></div>
 `
 innerHTML('top-panel', toppanel)
