@@ -54,5 +54,13 @@ news = `
     <a href="https://t.me/shaman2016scratcher/422"><button>Смотреть пост</button></a>
     <p>Опубликовано 03.11.2025 в 14:24:16 UTC+3</p>
   </div>
+  <div class="project">
+    <h3>Началась разработка RussiaScript 1.2</h3>
+    <p>Что нового а также подробности</p>
+    <p>От SHAMAN2016</p>
+    <a href="/Shaman2016News/news/7"><button>Смотреть статью</button></a>
+    <a href="https://t.me/shaman2016scratcher/432"><button>Смотреть пост</button></a>
+    <p>Опубликовано 04.11.2025 в 22:24:53 UTC+3</p>
+  </div>
 `
 innerHTML('news', news)
