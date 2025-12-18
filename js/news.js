@@ -1,3 +1,4 @@
+
 function innerHTML(p1, p2) {
   document.getElementById(p1).innerHTML = p2
 }
@@ -61,6 +62,22 @@ news = `
     <a href="/Shaman2016News/news/7"><button>Смотреть статью</button></a>
     <a href="https://t.me/shaman2016scratcher/432"><button>Смотреть пост</button></a>
     <p>Опубликовано 04.11.2025 в 22:24:53 UTC+3</p>
+  </div>
+  <div class="project">
+    <h3>Котоблоки в Скретче теперь платные?</h3>
+    <p>Теперь в Скретче можно получить котоблоки когда угодно с помощью Membership, что это значит, подробности и детали, и что будет при использовании аддонов? Читайте в статье</p>
+    <p>От SHAMAN2016</p>
+    <a href="/Shaman2016News/news/8"><button>Смотреть статью</button></a>
+    <a href="https://t.me/shaman2016scratcher/838"><button>Смотреть пост</button></a>
+    <p>Опубликовано 13.12.2025 в 16:22:27 UTC+3</p>
+  </div>
+  <div class="project">
+    <h3>Скретч стал коммерческим?</h3>
+    <p>Стал ли Скретч коммерческим, из-за Membership? Продробнее в статье</p>
+    <p>От SHAMAN2016</p>
+    <a href="/Shaman2016News/news/9"><button>Смотреть статью</button></a>
+    <a href="https://t.me/shaman2016scratcher/1019"><button>Смотреть пост</button></a>
+    <p>Опубликовано 18.12.2025 в 11:10:47 UTC+3</p>
   </div>
 `
 innerHTML('news', news)
