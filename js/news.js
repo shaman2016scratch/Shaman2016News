@@ -5,7 +5,6 @@ function TextContent(p1, p2) {
   document.getElementById(p1).textContent = p2
 }
 news = `
-  <h2>Статьи</h2>
   <div class="project">
     <h3>Турбоварп заблокировали в России</h3>
     <p>TurboWarp был заблокирован на теретории Российской Федерации</p>
