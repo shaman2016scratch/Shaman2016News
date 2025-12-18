@@ -19,5 +19,11 @@ if (user == 'SHAMAN2016') {
   document.getElementById('desc').textContent = 'Профиль UpdateBot в Shaman2016News'
   document.getElementById('title2').textContent = 'UpdateBot • Shaman2016News profiles'
   document.getElementById('info').innerHTML = '<p>Добро пожаловать в профиль UpdateBot [bot]</p><p>UpdateBot выкладывает статьи о обновлениях на shaman2016scratch.github.io/Shaman2016News/*.</p>'
+} else {
+  document.getElementById('title').textContent = `${user} • Shaman2016News Profiles`
+  document.getElementById('ogtitle').textContent = user
+  document.getElementById('ogdesc').textContent = `${user} profile in Shaman2016News`
+  document.getElementById('desc').textContent = `Профиль ${user} в Shaman2016News`
+  document.getElementById('title2').textContent = `${user} • Shaman2016News profiles`
+  document.getElementById('info').innerHTML = '<p>Данный профиль не найден. 404</p>'
 }
-
