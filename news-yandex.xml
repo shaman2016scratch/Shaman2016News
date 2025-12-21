@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Shaman2016News</title>
+    <link>https://shaman2016scratch.github.io/Shaman2016News/</link>
+    <description>Новости программирования и Скретча. А также [бывает] продуктов и компаний которые созданы на Скретче</description>
+    <language>ru</language>
+    <item>
+      <title>В Скретче котоблоки стали платными</title>
+      <link>https://shaman2016scratch.github.io/Shaman2016News/news/8.html</link>
+      <description>В Скретче котоблоки стали платными, подробности.</description>
+      <pubDate>Sat, 13 December 2025 16:22:27 +0300</pubDate>
+      <guid>https://shaman2016scratch.github.io/Shaman2016News/news/8.html</guid>
+    </item>
+    <item>
+      <title>Скретч стал коммерческим из-за Membership или нет?</title>
+      <link>https://shaman2016scratch.github.io/Shaman2016News/news/9.html</link>
+      <description>Стал ли Скретч коммерческим, из-за Membership?</description>
+      <pubDate>Thu, 18 December 2025 11:10:40 +0300</pubDate>
+      <guid>https://shaman2016scratch.github.io/Shaman2016News/news/9.html</guid>
+    </item>
+  </channel>
+</rss>
