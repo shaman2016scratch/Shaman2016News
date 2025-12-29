@@ -1,3 +1,3 @@
 const url = new URL(window.location)
 const getpar = url.searchParams
-if 
+if (getpar.get("NewYearMode") || NewYear) {}
