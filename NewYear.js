@@ -3,7 +3,7 @@ const NewYearMode = 0
 const url = new URL(window.location)
 const searchParams = url.searchParams
 let NewYearFunc = {}
-if (getpar.get("NewYearMode") || NewYear) {
+if (searchParams.get("NewYearMode") || NewYear) {
   txt = "<p>Happy New Year!</p><p>We say goodbye to the outgoing year 2025 and look forward to the coming year 2026!</p><p>Прощаемся с уходящим 2025 годом и приветствуем и радуемся наступающему 2026 году</p>"
   document.getElementById('NewYear').innerHTML = txt
 } else if (NewYearMode === 0) {
