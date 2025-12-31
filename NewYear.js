@@ -1,5 +1,5 @@
 try {
-  const NewYear = false
+  const NewYear = true
   const NewYearMode = 0
   const url = new URL(window.location)
   const searchParams = url.searchParams
