@@ -9,7 +9,7 @@ try {
   } else if (NewYearMode === 0) {
     document.getElementById('NewYear').innerHTML = "<p>Скоро новый год! The new year is coming soon!</p>"
   } else if (NewYearMode === 1) {
-    document.getElementById('NewYear').innerHTML = "<p>С наступающим годом! Happy new year 2026!</p>"
+    document.getElementById('NewYear').innerHTML = "<p>С новым 2026 годом! Старый год прошел и наступил 2026!</p>"
   }
 } catch (err) {
   alert(`Error when executing NewYear.js: ${err.message}`)
