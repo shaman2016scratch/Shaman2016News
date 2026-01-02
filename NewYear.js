@@ -1,6 +1,6 @@
 try {
-  const NewYear = true
-  const NewYearMode = 0
+  const NewYear = false
+  const NewYearMode = 1
   const url = new URL(window.location)
   const searchParams = url.searchParams
   let NewYearFunc = {}
