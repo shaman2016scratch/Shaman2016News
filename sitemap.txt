@@ -8,7 +8,7 @@ https://shaman2016scratch.github.io/Shaman2016News/news/6
 https://shaman2016scratch.github.io/Shaman2016News/news/7
 https://shaman2016scratch.github.io/Shaman2016News/news/8
 https://shaman2016scratch.github.io/Shaman2016News/news/9
-https://shaman2016scratch.github.io/Shaman2016News/profile.html?user=SHAMAN2016
+https://shaman2016scratch.github.io/Shaman2016News/profile?user=SHAMAN2016
 https://shaman2016scratch.github.io/Shaman2016News/news/10
 https://shaman2016scratch.github.io/Shaman2016News/news/11
 https://shaman2016scratch.github.io/Shaman2016News/info/
