@@ -7,7 +7,7 @@ const users = [
 ]
 if (user == 'SHAMAN2016') {
   document.getElementById('title').textContent = 'SHAMAN2016 • Shaman2016News Profiles'
-  document.getElementById('ogtitle').textContent = 'SHAMAN2016'
+  document.getElementById('ogtitle').content = 'SHAMAN2016'
   document.getElementById('ogdesc').textContent = 'SHAMAN2016 profile in Shaman2016News'
   document.getElementById('desc').textContent = 'Профиль SHAMAN2016 в Shaman2016News'
   document.getElementById('title2').textContent = 'SHAMAN2016 • Shaman2016News profiles'
