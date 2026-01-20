@@ -1,6 +1,6 @@
 try {
   const NewYear = false
-  const NewYearMode = 1
+  const NewYearMode = 2
   const url = new URL(window.location)
   const searchParams = url.searchParams
   let NewYearFunc = {}
@@ -10,6 +10,8 @@ try {
     document.getElementById('NewYear').innerHTML = "<p>Скоро новый год! The new year is coming soon!</p>"
   } else if (NewYearMode === 1) {
     document.getElementById('NewYear').innerHTML = "<p>С новым 2026 годом! Старый год прошел и наступил 2026!</p>"
+  } else {
+    document.getElementById('NewYear') = ""
   }
 } catch (err) {
   alert(`Error when executing NewYear.js: ${err.message}`)
