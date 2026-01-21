@@ -9,7 +9,7 @@ const categories = [
   "Telegram",
   "users",
 ]
-if (categ === 'SHAMAN2016') {
+if (false) {
   document.getElementById('title').textContent = 'SHAMAN2016 • Shaman2016News Profiles'
   document.getElementById('ogtitle').content = 'SHAMAN2016'
   document.getElementById('ogdesc').content = 'SHAMAN2016 profile in Shaman2016News'
