@@ -5,7 +5,7 @@ const users = [
   "SHAMAN2016",
   "UpdateBot",
 ]
-if (user === 'SHAMAN2016') {
+if (user === 'SHAMAN2016' || user === 'polzovatel_8787' || user === 8787 || user === "8787" || user === "shaman2016") {
   document.getElementById('title').textContent = 'SHAMAN2016 • Shaman2016News Profiles'
   document.getElementById('ogtitle').content = 'SHAMAN2016'
   document.getElementById('ogdesc').content = 'SHAMAN2016 profile in Shaman2016News'
