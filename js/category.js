@@ -1,6 +1,6 @@
 const url = new URL(window.location)
 const searchParams = url.searchParams
-let user = searchParams.get('user')
+let categ = searchParams.get('name')
 const categories = [
   "SHAMAN2016",
   "UpdateBot",
