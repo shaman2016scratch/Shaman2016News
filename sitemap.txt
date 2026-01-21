@@ -12,3 +12,4 @@ https://shaman2016scratch.github.io/Shaman2016News/profile?user=SHAMAN2016
 https://shaman2016scratch.github.io/Shaman2016News/news/10
 https://shaman2016scratch.github.io/Shaman2016News/news/11
 https://shaman2016scratch.github.io/Shaman2016News/info/
+https://shaman2016scratch.github.io/Shaman2016News/category?name=categories
