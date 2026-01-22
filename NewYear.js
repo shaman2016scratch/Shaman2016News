@@ -10,7 +10,7 @@ try {
     document.getElementById('NewYear').innerHTML = "<p>Скоро новый год! The new year is coming soon!</p>"
   } else if (NewYearMode === 1) {
     document.getElementById('NewYear').innerHTML = "<p>С новым 2026 годом! Старый год прошел и наступил 2026!</p>"
-  } else {
+  } else if (NewYearMode === 2) {
     document.getElementById('NewYear').innerHTML = "";
   }
 } catch (err) {
