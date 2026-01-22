@@ -5,6 +5,7 @@ function TextContent(p1, p2) {
   document.getElementById(p1).textContent = p2
 }
 news = `
+  <p>Предложить новости можно в предложке Telegram-канала <a href="https://shaman2016scratcher.t.me/">создателя Shaman2016News</a></p>
   <div class="project">
     <h3>Турбоварп заблокировали в России</h3>
     <p>TurboWarp был заблокирован на теретории Российской Федерации</p>
