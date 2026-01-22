@@ -94,6 +94,14 @@ news = `
     <button onclick="alert("Поста нет")">Поста нет</button>
     <p>Опубликовано 30.12.2025 в 21:59:00 UTC+3</p>
   </div>
+  <div class="project">
+    <h3>Обновление Shaman2016News 22.01.2026</h3>
+    <p>Обнолвение: Dev-версия, категории и многое другое!</p>
+    <p>От <a href="/Shaman2016News/profile.html?user=UpdateBot">UpdateBot [Bot]</a></p>
+    <a href="/Shaman2016News/news/12"><button>Смотреть статью</button></a>
+    <button>Поста нет</button>
+    <p>Опубликовано 22.01.2026 в 13:36 UTC+3</p>
+  </div>
 `
 itNews = `
   <div class="project">
