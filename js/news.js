@@ -102,6 +102,14 @@ news = `
     <button>Поста нет</button>
     <p>Опубликовано 22.01.2026 в 13:36 UTC+3</p>
   </div>
+  <div class="project">
+    <h3>Планы на sosirsOS Server 2026.3</h3>
+    <p>Планы на sosirsOS Server 2026.3. что появится, читайое в статье</p>
+    <p>От <a href="/Shaman2016News/profile.html?user=SHAMAN2016">SHAMAN2016</a></p>
+    <a href="/Shaman2016News/news/13"><button>Смотреть статью</button></a>
+    <a href="https://t.me/shaman2016scratcher/1608">Смотреть пост</a>
+    <p>Опубликовано 30.01.2026 в 13:53 UTC+3</p>
+  </div>
 `
 itNews = `
   <div class="project">
