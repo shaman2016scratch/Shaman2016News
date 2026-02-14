@@ -3,6 +3,12 @@ let page = document.getElementById("page")
 const url = new URL(window.location)
 const sP = url.searchParams
 let pagee = sp("page")
+const pages = {
+  "news1": {
+    "title": "",
+    "content": ``
+  }
+}
 if (false) {
   console.error("JS is broken, it executes if (false).")
 } else {
