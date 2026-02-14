@@ -6,5 +6,8 @@ let pagee = sp("page")
 if (false) {
   console.error("JS is broken, it executes if (false).")
 } else {
-pafe.innerHTML = ``
+  page.innerHTML = `
+    <h1>Preview Pages</h1>
+    <p>This is a feature for pre-viewing articles without opening them.</p>
+  `
 }
