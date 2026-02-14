@@ -32,7 +32,7 @@ if (user === 'SHAMAN2016' || user === 'polzovatel_8787' || user === 8787 || user
   document.getElementById('Vklad').innerHTML = `<p>Создал ${user_info.SHAMAN2016.colvostat} статей</p><p>Создал ${user_info.SHAMAN2016.colvocateg} категорий</p><p>Зарегестрировал ${user_info.SHAMAN2016.colvoreg} пользователей и ботов</p><p>Создал категории, профиля и саму площадку</p><p>Делал новогодний режим в 2025 году</p>`
   document.getElementById('Dostizhenia').innerHTML = `<p>Создатель</p><p>Программист</p><p>Новостной (${user_info.SHAMAN2016.colvostat}/5 статей)</p><p>Категорист (${user_info.SHAMAN2016.colvocateg}/5 категорий)</p>`
   document.getElementById('links').innerHTML = `
-    <a href="${user_info.SHAMAN2016.links.github}">Github</a>|<a href="${user_info.SHAMAN2016.linksscratch}">Scratch</a>|<a href="${user_info.SHAMAN2016.links.site}">Website</a>
+    <a href="${user_info.SHAMAN2016.links.github}">Github</a>|<a href="${user_info.SHAMAN2016.link.scratch}">Scratch</a>|<a href="${user_info.SHAMAN2016.links.site}">Website</a>
   `
 } else if (user === 'UpdateBot') {
   document.getElementById('title').textContent = 'UpdateBot • Shaman2016News Profiles'
