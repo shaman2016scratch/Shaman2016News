@@ -110,6 +110,14 @@ news = `
     <a href="https://t.me/shaman2016scratcher/1608">Смотреть пост</a>
     <p>Опубликовано 30.01.2026 в 13:53 UTC+3</p>
   </div>
+  <div class="project">
+    <h3>Google Gemini пытались скопировать</h3>
+    <p>Кто-то пытался украсть Google Gemini</p>
+    <p>От <a href="/Shaman2016News/profile.html?user=SHAMAN2016">SHAMAN2016</a></p>
+    <a href="/Shaman2016News/news/14"><button>Смотреть статью</button></a>
+    <a href="https://t.me/shaman2016scratcher/">Ждать пост</a>
+    <p>Опубликовано 16.02.2026 в 00:09 UTC+3</p>
+  </div>
 `
 itNews = `
   <div class="project">
