@@ -3,11 +3,11 @@ const searchParams = url.searchParams
 let user = searchParams.get('user')
 const users = [
   "SHAMAN2016",
-  "UpdateBot",
+  "UpdateBot"
 ]
 const user_info = {
   "SHAMAN2016": {
-    "colvostat": 12,
+    "colvostat": 13,
     "colvocateg": 5,
     "colvoreg": 1,
     "links": {
