@@ -118,6 +118,14 @@ news = `
     <a href="https://t.me/shaman2016scratcher/">Ждать пост</a>
     <p>Опубликовано 16.02.2026 в 00:09 UTC+3</p>
   </div>
+  <div class="project">
+    <h3>У Dash появился сервер?</h3>
+    <p>У Dash появился сервер? Правда ли это?</p>
+    <p>От <a href="/Shaman2016News/profile.html?user=SHAMAN2016">SHAMAN2016</a></p>
+    <a href="/Shaman2016News/news/16"><button>Смотреть статью</button></a>
+    <a href="https://t.me/shaman2016scratcher/">Ждать пост</a>
+    <p>Опубликовано 27.02.2026 в 23:50 UTC+3</p>
+  </div>
 `
 itNews = `
   <div class="project">
