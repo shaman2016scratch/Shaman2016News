@@ -7,7 +7,7 @@ const users = [
 ]
 const user_info = {
   "SHAMAN2016": {
-    "colvostat": 13,
+    "colvostat": 15,
     "colvocateg": 5,
     "colvoreg": 1,
     "links": {
