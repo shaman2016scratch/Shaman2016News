@@ -13,7 +13,8 @@ const user_info = {
     links: {
       github: "https://github.com/shaman2016scratch/",
       scratch: "https://scratch.mit.edu/users/shaman2016/",
-      site: "https://shaman2016scratch.github.io/"
+      site: "https://shaman2016scratch.github.io/",
+      dash: "https://dashblocks.github.io/scratch-gui#7"
     }
   },
   "UpdateBot": {
@@ -32,11 +33,12 @@ if (user === 'SHAMAN2016' || user === 'polzovatel_8787' || user === 8787 || user
     <p>Привет! Я SHAMAN2016, скретчер из России! Также я web разработчик и JavaScript разработчик!</p>
     <p>Также я создатель Shaman2016News</p>
     <p>Мой сайт: https://shaman2016scratch.github.io (да, Shaman2016News размещен на нём)</p>
+    <p>Также я polzovatel_8787, можно просто 8787</p>
   `
   document.getElementById('Vklad').innerHTML = `<p>Создал ${user_info.SHAMAN2016.colvostat} статей</p><p>Создал ${user_info.SHAMAN2016.colvocateg} категорий</p><p>Зарегестрировал ${user_info.SHAMAN2016.colvoreg} пользователей и ботов</p><p>Создал категории, профиля и саму площадку</p><p>Делал новогодний режим в 2025 году</p>`
   document.getElementById('Dostizhenia').innerHTML = `<p>Создатель</p><p>Программист</p><p>Новостной (${user_info.SHAMAN2016.colvostat}/5 статей)</p><p>Категорист (${user_info.SHAMAN2016.colvocateg}/5 категорий)</p>`
   document.getElementById('links').innerHTML = `
-    <a href="${user_info.SHAMAN2016.links.github}">Github</a>|<a href="${user_info.SHAMAN2016.link.scratch}">Scratch</a>|<a href="${user_info.SHAMAN2016.links.site}">Website</a>
+    <a href="${user_info.SHAMAN2016.links.github}">Github</a>|<a href="${user_info.SHAMAN2016.link.scratch}">Scratch</a>|<a href="${user_info.SHAMAN2016.links.site}">Website</a>|<a href='${user_info.SHAMAN2016.links.dash}'>Dash</a>
   `
 } else if (user === 'UpdateBot') {
   document.getElementById('title').textContent = 'UpdateBot • Shaman2016News Profiles'
