@@ -7,19 +7,19 @@ const users = [
 ]
 const user_info = {
   "SHAMAN2016": {
-    "colvostat": 15,
-    "colvocateg": 5,
-    "colvoreg": 1,
-    "links": {
-      "github": "https://github.com/shaman2016scratch/",
-      "scratch": "https://scratch.mit.edu/users/shaman2016/",
-      "site": "https://shaman2016scratch.github.io/"
+    colvostat: 15,
+    colvocateg: 5,
+    colvoreg: 1,
+    links: {
+      github: "https://github.com/shaman2016scratch/",
+      scratch: "https://scratch.mit.edu/users/shaman2016/",
+      site: "https://shaman2016scratch.github.io/"
     }
   },
   "UpdateBot": {
-    "colvostat": 1,
-    "colvocateg": 0,
-    "colvoreg": 0
+    colvostat: 1,
+    colvocateg: 0,
+    colvoreg: 0
   }
 }
 if (user === 'SHAMAN2016' || user === 'polzovatel_8787' || user === 8787 || user === "8787" || user === "shaman2016") {
@@ -28,7 +28,11 @@ if (user === 'SHAMAN2016' || user === 'polzovatel_8787' || user === 8787 || user
   document.getElementById('ogdesc').content = 'SHAMAN2016 profile in Shaman2016News'
   document.getElementById('desc').content = 'Профиль SHAMAN2016 в Shaman2016News'
   document.getElementById('title2').textContent = 'SHAMAN2016 • Shaman2016News profiles'
-  document.getElementById('info').innerHTML = `<p>Привет! Я SHAMAN2016, скретчер из России! Также я web разработчик и JavaScript разработчик!</p><p>Также я создатель Shaman2016News</p><p>Мой сайт: shaman2016scratch.github.io (да, Shaman2016News размещен на нём)</p>`
+  document.getElementById('info').innerHTML = `
+    <p>Привет! Я SHAMAN2016, скретчер из России! Также я web разработчик и JavaScript разработчик!</p>
+    <p>Также я создатель Shaman2016News</p>
+    <p>Мой сайт: https://shaman2016scratch.github.io (да, Shaman2016News размещен на нём)</p>
+  `
   document.getElementById('Vklad').innerHTML = `<p>Создал ${user_info.SHAMAN2016.colvostat} статей</p><p>Создал ${user_info.SHAMAN2016.colvocateg} категорий</p><p>Зарегестрировал ${user_info.SHAMAN2016.colvoreg} пользователей и ботов</p><p>Создал категории, профиля и саму площадку</p><p>Делал новогодний режим в 2025 году</p>`
   document.getElementById('Dostizhenia').innerHTML = `<p>Создатель</p><p>Программист</p><p>Новостной (${user_info.SHAMAN2016.colvostat}/5 статей)</p><p>Категорист (${user_info.SHAMAN2016.colvocateg}/5 категорий)</p>`
   document.getElementById('links').innerHTML = `
